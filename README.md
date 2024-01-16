@@ -1,2 +1,2 @@
 # My-stories
-This are my stories
+These are my stories
